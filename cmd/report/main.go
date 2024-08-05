@@ -25,9 +25,9 @@ import (
 
 	"github.com/golang/protobuf/proto"
 
-	"github.com/google/gnostic/printer"
+	"github.com/okkoye/gnostic/printer"
 
-	pb "github.com/google/gnostic/openapiv2"
+	pb "github.com/okkoye/gnostic/openapiv2"
 )
 
 func readDocumentFromFileWithName(filename string) (*pb.Document, error) {

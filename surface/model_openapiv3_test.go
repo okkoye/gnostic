@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	openapiv3 "github.com/google/gnostic/openapiv3"
+	openapiv3 "github.com/okkoye/gnostic/openapiv3"
 
 	"github.com/google/go-cmp/cmp"
 	"google.golang.org/protobuf/encoding/protojson"

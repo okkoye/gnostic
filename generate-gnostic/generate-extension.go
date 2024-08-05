@@ -26,9 +26,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/google/gnostic/compiler"
-	"github.com/google/gnostic/jsonschema"
-	"github.com/google/gnostic/printer"
+	"github.com/okkoye/gnostic/compiler"
+	"github.com/okkoye/gnostic/jsonschema"
+	"github.com/okkoye/gnostic/printer"
 )
 
 var protoOptionsForExtensions = []ProtoOption{

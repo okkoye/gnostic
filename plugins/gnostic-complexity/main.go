@@ -21,10 +21,10 @@ import (
 
 	"github.com/golang/protobuf/proto"
 
-	metrics "github.com/google/gnostic/metrics"
-	openapiv2 "github.com/google/gnostic/openapiv2"
-	openapiv3 "github.com/google/gnostic/openapiv3"
-	plugins "github.com/google/gnostic/plugins"
+	metrics "github.com/okkoye/gnostic/metrics"
+	openapiv2 "github.com/okkoye/gnostic/openapiv2"
+	openapiv3 "github.com/okkoye/gnostic/openapiv3"
+	plugins "github.com/okkoye/gnostic/plugins"
 )
 
 // This is the main function for the plugin.

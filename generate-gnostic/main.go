@@ -28,7 +28,7 @@ import (
 
 	"golang.org/x/tools/imports"
 
-	"github.com/google/gnostic/jsonschema"
+	"github.com/okkoye/gnostic/jsonschema"
 )
 
 // License is the software license applied to generated code.

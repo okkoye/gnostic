@@ -23,9 +23,9 @@ import (
 
 	"github.com/golang/protobuf/proto"
 
-	"github.com/google/gnostic/printer"
+	"github.com/okkoye/gnostic/printer"
 
-	plugins "github.com/google/gnostic/plugins"
+	plugins "github.com/okkoye/gnostic/plugins"
 )
 
 func readMessagesFromFileWithName(filename string) *plugins.Messages {

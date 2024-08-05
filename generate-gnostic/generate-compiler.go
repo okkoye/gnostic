@@ -20,7 +20,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/google/gnostic/printer"
+	"github.com/okkoye/gnostic/printer"
 )
 
 // patternNames hands out unique names for a given string.

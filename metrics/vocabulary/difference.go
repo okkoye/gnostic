@@ -15,7 +15,7 @@
 package vocabulary
 
 import (
-	metrics "github.com/google/gnostic/metrics"
+	metrics "github.com/okkoye/gnostic/metrics"
 )
 
 // mapDifference finds the difference between two Vocabularies.
